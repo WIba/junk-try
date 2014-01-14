@@ -1,0 +1,4 @@
+something else -a
+echo something else > chapter_1.txt 
+echo something else > chapter_1.txt -a
+something else
